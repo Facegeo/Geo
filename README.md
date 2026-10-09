@@ -98,7 +98,3 @@ To unlock all of Geo's capabilities, grant the following permissions on your dev
 - **Notification Listener Service**: Allows Geo to read and summarize incoming notifications.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
