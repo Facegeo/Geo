@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geo</string>
+    <string name="accessibility_description">Geo uses accessibility to read screen content for summarization when you ask.</string>
+</resources>
